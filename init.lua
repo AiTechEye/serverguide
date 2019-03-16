@@ -1,10 +1,10 @@
 local serverguide_Book_title="The server guide"
 
 local serverguide_Tab_Text_1="Server info\n Type /guide to see this"
-local serverguide_Tab_Text_2="Server Rules \nNo ask for privs or admin stuff \nNo swearing or bad names (like God, fuc...)\nNo griefing\nNo bad stealing or steal people's usernames\nNo hacking\nDon't mess up with moderators or admins"
+local serverguide_Tab_Text_2="Server Rules \nDon't ask for privs or admin stuff \nNo swearing or bad words (like god, fuc...)\nNo griefing\nDon't steal or take other people's usernames\nNo hacking\nDon't mess with moderators or admins"
 local serverguide_Tab_Text_3="Staff (moderator or admins)"
-local serverguide_Tab_Text_4="Commands:\nSet your home with /sethome say /home to teleport back \nSee who are online /status"
-local serverguide_Tab_Text_5="Help info\nHelp you self\n Only call a moderator or admin if you\n get problems that you cant fix it by own"
+local serverguide_Tab_Text_4="Commands:\nSet your home with /sethome, say /home to teleport back \nSee who is online with /status"
+local serverguide_Tab_Text_5="Help info\nHelp yourself\n Only call a moderator or admin if you\n encounter problems that you cant fix by yourself"
 
 local serverguide_Tab_1="Server"
 local serverguide_Tab_2="Rules"
